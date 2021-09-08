@@ -62,8 +62,8 @@ header{
 
 nav ul{
     display: flex;
-    flex-wrap: warp;
     align-items: center;
+    flex-wrap: wrap;
 }
 nav ul li{
     list-style: none;
